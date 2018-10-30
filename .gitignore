@@ -1,0 +1,3 @@
+# remove un-used file
+node_moudles/*
+*.class
