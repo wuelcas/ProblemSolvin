@@ -2,7 +2,7 @@ const getArrayElement = (arr, input) => {
   const index = parseInt(input);
 
   if (index < 1) {
-    return data[0];
+    return arr[0];
   }
 
   if (index > arr.length) {
