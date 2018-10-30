@@ -4,10 +4,13 @@ Given array with data: [“Bhin Bhin”, “Atung”, “Kaka”, “Hodori”, 
 Note: Make it dynamic as possible you can.
 
 TestCase:
-Case | Input | Output
-#01  | 5     | Pan Pan
-#02  | 3     | Kaka
-#03  | 13    | Hodori
-#04  | 20    | Atung
-#05  | 28    | Bhin Bhin
+#--------------------------#
+| Case | Input | Output    |
+#--------------------------#
+| #01  | 5     | Pan Pan   |
+| #02  | 3     | Kaka      |
+| #03  | 13    | Hodori    |
+| #04  | 20    | Atung     |
+| #05  | 28    | Bhin Bhin |
+#--------------------------#
 

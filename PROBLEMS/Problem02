@@ -1,0 +1,13 @@
+PROBLEM#3
+Type your keyboard (10 finger type pattern), then you can solve this case.
+
+TestCase:
+#--------------------------#
+| Case | Input    | Output | 
+#--------------------------#
+| #01  | starwars | true   |
+| #02  | lampung  | false  |
+| #03  | secret   | true   |
+| #04  | ilmu     | true   |
+| #05  | pony     | true   |
+#--------------------------#
